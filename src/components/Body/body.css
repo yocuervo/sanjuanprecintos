@@ -1,0 +1,56 @@
+.body__container {
+    width: 100%;
+    background-color: rgb(218, 219, 222);
+    padding: 2%;
+}
+
+.body_title {
+    justify-content: center;
+    border-top-left-radius: 5px;
+}
+
+.body_title > h1 {
+    color: white;
+    background-color: black;
+    font-size: 5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    width: 40%;
+    min-width: 230px;
+    border: 1px solid black;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.body_products {
+    margin-top: 2%;
+    padding: 1%;
+}
+
+.body_products_container {
+    text-align: center;
+}
+
+.products__img {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 2vh;
+    width: 90%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding: 5px;
+}
+
+.products__data {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 2%;
+    width: 90%;
+}
+
+.products__data > h4 {
+    margin-top: 4px;
+}
