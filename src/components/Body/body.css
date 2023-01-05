@@ -2,6 +2,7 @@
     width: 100%;
     background-color: rgb(218, 219, 222);
     padding: 2%;
+    padding-top: 30vh;
 }
 
 .body_title {
@@ -18,7 +19,6 @@
     text-align: center;
     width: 40%;
     min-width: 230px;
-    border: 1px solid black;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -30,6 +30,8 @@
 
 .body_products_container {
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .products__img {
@@ -38,8 +40,7 @@
     justify-content: center;
     font-size: 2vh;
     width: 90%;
-    background-color: rgb(255, 255, 255);
-    border: 1px solid rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0);
     border-top-left-radius: 30px;
     border-bottom-right-radius: 30px;
     padding: 5px;
@@ -48,9 +49,21 @@
 .products__data {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding-top: 2%;
+    padding-bottom: 2%;
     width: 90%;
+    justify-content: center;
+}
+
+.products__data > button {
+    width: 40%;
+    min-width: 150px;
+    margin-bottom: 10px;
 }
 
 .products__data > h4 {
     margin-top: 4px;
+}
+
+.card-body {
+    background-color: rgb(187, 192, 192);
 }
