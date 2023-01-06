@@ -1,7 +1,7 @@
 .header__container {
     padding: 1%;
     min-height: 10vh;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     position: fixed;
     z-index: 10;
 }
@@ -33,7 +33,7 @@
     padding: 2%;
 }
 
-.header_contact_col > img {
+.contact_logos {
     width: 15%;
     margin-left: 5px;
 }
