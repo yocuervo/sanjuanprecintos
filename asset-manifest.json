@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sanjuanprecintos/static/css/main.6eb06ee8.css",
+    "main.js": "/sanjuanprecintos/static/js/main.28e92c1f.js",
+    "static/media/ProductoUno.png": "/sanjuanprecintos/static/media/ProductoUno.d9f6e73b8d4ccd45a5ec.png",
+    "static/media/Logo.png": "/sanjuanprecintos/static/media/Logo.d7c70e78033fbb066a0b.png",
+    "static/media/LogoMail.png": "/sanjuanprecintos/static/media/LogoMail.40e0407a313535282627.png",
+    "static/media/LogoWhat.png": "/sanjuanprecintos/static/media/LogoWhat.407d88237aa49df7e7c4.png",
+    "index.html": "/sanjuanprecintos/index.html",
+    "main.6eb06ee8.css.map": "/sanjuanprecintos/static/css/main.6eb06ee8.css.map",
+    "main.28e92c1f.js.map": "/sanjuanprecintos/static/js/main.28e92c1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb06ee8.css",
+    "static/js/main.28e92c1f.js"
+  ]
+}
