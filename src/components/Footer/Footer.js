@@ -17,10 +17,9 @@ function Footer() {
                 <div className='col'>
                     <h3>Contacto</h3>
                     <h6>
-                        Calle 11 N° 32 - Urbanización Cañoto <br />
-                        Telf: 3597617 - Cel: 71062917 - 75553425 <br />
-                        eduardo@sanjuanrepresentaciones.com <br />
-                        sanjuan.eduardo@gmail.com
+                        Dir: Barrio Nueva Esperanza calle Las Orquídeas nro 24 <br />
+                        Tel: 75553425 <br />
+                        Mail: sanjuan.eduardo@gmail.com
                     </h6>
                 </div>
             </div>
