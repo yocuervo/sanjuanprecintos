@@ -1,6 +1,9 @@
 import './body.css';
 
 import productOne from '../../images/productos/ProductoUno.png';
+import productTwo from '../../images/productos/ProductoDos.png';
+import productThree from '../../images/productos/ProductoTres.png';
+import productFour from '../../images/productos/ProductoCuatro.png';
 
 function Body() {
     return ( 
@@ -47,7 +50,7 @@ function Body() {
                 </div>
 
                 <div className='col-12 col-md-6 body_products_container'>
-                    <div className='row products__img'> <img src={productOne} alt='Imagen de Producto' /> Modelo: TA-40 Traba de Acero </div>
+                    <div className='row products__img'> <img src={productTwo} alt='Imagen de Producto' /> Modelo: TA-40 Traba de Acero </div>
                     <div className='row products__data'>
                         <button className='btn btn-outline-dark' type='button' data-bs-toggle='collapse' 
                                 data-bs-target='#productTwo' aria-expanded='false' aria-controls='collapseExample'>
@@ -86,7 +89,7 @@ function Body() {
 
             <div className='row body_products'>
                 <div className='col-12 col-md-6 body_products_container'>
-                    <div className='row products__img'> <img src={productOne} alt='Imagen de Producto' /> Modelo: TA-40 Traba de Acero </div>
+                    <div className='row products__img'> <img src={productThree} alt='Imagen de Producto' /> Modelo: TA-40 Traba de Acero </div>
                     <div className='row products__data'>
                         <button className='btn btn-outline-dark' type='button' data-bs-toggle='collapse' 
                                 data-bs-target='#productThree' aria-expanded='false' aria-controls='collapseExample'>
@@ -123,7 +126,7 @@ function Body() {
                 </div>
 
                 <div className='col-12 col-md-6 body_products_container'>
-                    <div className='row products__img'> <img src={productOne} alt='Imagen de Producto' /> Modelo: TA-40 Traba de Acero </div>
+                    <div className='row products__img'> <img src={productFour} alt='Imagen de Producto' /> Modelo: TA-40 Traba de Acero </div>
                     <div className='row products__data'>
                         <button className='btn btn-outline-dark' type='button' data-bs-toggle='collapse' 
                                 data-bs-target='#productFour' aria-expanded='false' aria-controls='collapseExample'>
